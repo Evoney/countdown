@@ -17,7 +17,7 @@ Pass the minutes number as a parameters url like: http://localhost:3000/?minutes
 You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
 
 ```bash
-git clone https://github.com/evoney/countdown.git
+$ git clone https://github.com/evoney/countdown.git
 $ cd countdown
 $ npm install
 $ npm run dev
